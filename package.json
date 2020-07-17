@@ -23,13 +23,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/navruz-zbx/node-passport-login.git"
+    "url": "git+https://github.com/iminoff-zbx/node-passport-login.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/navruz-zbx/node-passport-login/issues"
+    "url": "https://github.com/iminoff-zbx/node-passport-login/issues"
   },
-  "homepage": "https://github.com/navruz-zbx/node-passport-login#readme"
+  "homepage": "https://github.com/iminoff-zbx/node-passport-login#readme"
 }
