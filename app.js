@@ -1,5 +1,5 @@
 const express = require('express');
-const expressLeyouts = require('express-ejs-layouts');
+const expressLayouts = require('express-ejs-layouts');
 const mongoose = require('mongoose');
 
 const app = express();
@@ -13,7 +13,7 @@ mongoose.connect(db, {useNewUrlParser: true, useUnifiedTopology: true })
     .catch(err => console.log(err));
 
 // EJS
-app.use(expressLeyouts);
+app.use(expressLayouts);
 app.set('view engine', 'ejs');
 
 // Bodyparser
